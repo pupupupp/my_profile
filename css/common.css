@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+/* Common Style */
+* { box-sizing: border-box; }
+html, body { font-size: 62.5%; }
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    color: #DA5C83;
+    background-color: #FBFDE9;
+    height: 100vh;
+}
+ul, p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}    
+
+/* .text-color {
+    color: #DA5C83
+}
+.main-color {
+    color: #DA5C83;
+} */
+/* .노란색-강조{
+    color:#FFD966;
+} */
+/* .흰색에 노란색 좀 탐{
+    color:#F6FACE;
+} */
+/* .핑크인데 약간 차가운{
+    color:#DA5C83;
+} */
+/* .퍼러지만 그렇다고 차갑지는 않은{
+    color:#5DC6D1;
+} */
+
+.main-bg-color {
+    background-color: #5DC6D1;
+}
+
+.sub-bg-color {
+    background-color: #5DC6D1;
+}
+
+.main_color{
+    color:#DA5C83;
+}
